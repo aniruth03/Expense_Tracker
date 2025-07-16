@@ -38,4 +38,10 @@ A web-based expense tracker that allows users to add, view, and categorize their
 ---
 
 ## 📁 Folder Structure
-
+Etracker/
+├── public/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+├── server.js
+└── package.json
